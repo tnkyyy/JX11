@@ -6,6 +6,9 @@
               pluginManufacturerCode="tnky" pluginCode="jx11">
   <MAINGROUP id="uWxCPq" name="JX11">
     <GROUP id="{99237E62-200E-089A-94DC-68F82FE7C6BA}" name="Source">
+      <FILE id="uXe9jl" name="Voice.h" compile="0" resource="0" file="Source/Voice.h"/>
+      <FILE id="DbJRwb" name="Synth.cpp" compile="1" resource="0" file="Source/Synth.cpp"/>
+      <FILE id="hkfXyL" name="Synth.h" compile="0" resource="0" file="Source/Synth.h"/>
       <FILE id="GLAc0H" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
       <FILE id="m8VO2p" name="PluginProcessor.h" compile="0" resource="0"
